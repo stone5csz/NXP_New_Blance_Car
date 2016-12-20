@@ -1,0 +1,9 @@
+output
+Listings
+Objects
+*.uvgui.*
+*.uvguix.*
+*.bak
+*.dep
+*.txt
+*.htm
